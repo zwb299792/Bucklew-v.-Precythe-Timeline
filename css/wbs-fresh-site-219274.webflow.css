@@ -768,4 +768,23 @@ figcaption {
   }
 }
 
+.header-credit {
+  position: absolute;
+  top: 24px;
+  right: 32px;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  text-align: right;
+  z-index: 1000;
+}
 
+.divider {
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  background-color: white;
+  opacity: 0.8;
+  margin: 0 16px;
+}
