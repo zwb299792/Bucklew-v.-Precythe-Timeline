@@ -772,6 +772,8 @@ figcaption {
   position: absolute;
   top: 24px;
   right: 32px;
+  display: flex;              /*  让子元素水平排列 */
+  align-items: center;        /*  垂直居中对齐 */
   font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
   font-size: 16px;
   font-weight: 500;
