@@ -11,7 +11,7 @@ This project presents the key events and legal significance of *Bucklew v. Precy
 - 🧭 Clear structure for readability  
 
 ## Usage
-Open the [link](https://zwb299792.github.io/Bucklew-v.-Precythe-Timeline/)
+Open the [link](https://zwb299792.github.io/bucklew-v.-precythe-timeline/)
 
 ## Preview
 <center><img src="" width="1000">
