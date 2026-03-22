@@ -21,3 +21,6 @@ This project presents the key events and legal significance of *Bucklew v. Precy
 
 ## Usage
 Open the link
+
+## Preview
+<center><img src="" width="1000">
